@@ -39,5 +39,5 @@ Para testar este projeto localmente, você precisará configurar a sua própria 
    (Atenção: reinicie o Visual Studio após rodar este comando para que ele reconheça a nova variável).
 
 4. **Execute o projeto:**
-Abra o arquivo ```.sln```` ou ```.csproj``` no Visual Studio e inicie a aplicação.
+Abra o arquivo ```.sln``` ou ```.csproj``` no Visual Studio e inicie a aplicação.
    
