@@ -24,7 +24,7 @@ Para testar este projeto localmente, você precisará configurar a sua própria 
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/angelomoraes/ChatBot-Programacao-Basica.git](https://github.com/angelomoraes/ChatBot-Programacao-Basica.git)
+   git clone https://github.com/angelomoraes/ChatBot-Programacao-Basica.git
    ```
    
 2. **Obtenha a sua API Key:**
